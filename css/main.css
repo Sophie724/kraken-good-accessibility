@@ -77,6 +77,8 @@ nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  color: #ffffff;
+  z-index: -1;
 }
 
 nav a {
